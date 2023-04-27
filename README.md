@@ -1,2 +1,4 @@
 # PhD_public
-Repo for storing the notbook with my PhD work for sharing purposes.
+This repo is created simply to share my notebok with the work I'm doing for my PhD, without sharing the data.
+
+**IMPORTANT: This is still ongoing effort.**
